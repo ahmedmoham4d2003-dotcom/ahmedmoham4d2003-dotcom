@@ -1,16 +1,35 @@
-## Hi there 👋
+# Ahmed Mohamed Elsaie
 
-<!--
-**ahmedmoham4d2003-dotcom/ahmedmoham4d2003-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Pharmacist & Data Analyst | Power BI | SQL | Python | Healthcare Analytics
 
-Here are some ideas to get you started:
+Data Analyst with a strong background in healthcare and business intelligence, focused on transforming complex datasets into actionable insights through interactive dashboards and analytical reporting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experienced in:
+- Power BI
+- SQL
+- Python
+- Excel
+- DAX
+- Power Query
+- Data Modeling
+- Data Visualization
+
+Certified in Data Analytics through:
+- AMIT Learning
+- Applied Professionals Syndicate
+
+## Featured Projects
+- Call Center Performance Dashboard
+- Healthcare Analytics Dashboard
+- Sales Performance Dashboard
+
+## Areas of Interest
+- Business Intelligence
+- Healthcare Analytics
+- Operational Analytics
+- Customer Experience Analytics
+- Performance Monitoring
+
+## Connect With Me
+- LinkedIn
+- GitHub
